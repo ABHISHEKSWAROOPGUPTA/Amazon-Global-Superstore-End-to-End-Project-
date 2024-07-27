@@ -60,13 +60,12 @@ Delivered a comprehensive Power BI dashboard that provides valuable insights int
 ##### 5. Customer Profitability: Identifies top customers based on profit.
 ##### 6. Product Performance: Highlights products with the highest profit and loss.
 
+## Check Out the Dashboard
+Kindly click on this link to check out the dashboard:
+https://github.com/ABHISHEKSWAROOPGUPTA/Amazon-Global-Superstore-End-to-End-Project-/blob/40afd534bc810e5eed70579c85b8aea7bfa95250/AMAZON%20DASHBOARD.pbix
 
+Dashboard Image:
+![image](https://github.com/user-attachments/assets/956edb77-db66-4c58-8867-7bedd8141c86)
 
-
-
-Dashboard Image
-
-
-Dashboard Link:
 
 
