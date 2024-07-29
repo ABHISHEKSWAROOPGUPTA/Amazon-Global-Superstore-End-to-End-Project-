@@ -1,4 +1,4 @@
-# Amazon-Global-Superstore-End-to-End-Project.
+# End-to-End-Amazon-Global-Superstore-Analysis.
 Welcome to the Amazon Sales Analysis project repository! This project leverages Power BI to visualize and analyze Amazon's sales data from 2012 to 2015. The objective is to provide insights into sales projections, product unit quantities, segment sales, market distribution, customer profit, and more.
 
 ## Introduction
